@@ -1,0 +1,10 @@
+**Welcome to the Projet tutorée DUBII repository**
+
+You can find files for the project in the different subdirectories : 
+- Galaxy : Files for the Galaxy analysis
+	- SRA accession number for the Fastq
+	- Galaxy protocols
+	- .bed for the analysis
+- DMP : Current Data Management Project
+- Analysis : R scripts for analysis
+- Slides : Slides (.pdf) for the  DUBII defense.

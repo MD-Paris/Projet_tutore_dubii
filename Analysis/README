@@ -1,0 +1,14 @@
+Files description : 
+- metadata_for_seurat.csv : csv files containing metadata for each single-cell. 
+	- cell_id_rnaseq : SRA id for scRNA-seq Fastq
+	- cell_id_dnaseq : SRA id for scGenotyping Fastq
+	- well : well ID
+	- cd123 : Fluorescence for CD123 during index sorting
+	- cd34 : Fluorescence for CD34 during index sorting
+	- cd38 : Fluorescence for CD38 during index sorting
+	- cd45ra : Fluorescence for CD45RA during index sorting
+	- cd90 : Fluorescence for CD90 during index sorting
+	- published_genotype : Published genotype in Rodriguez-Meira A, et al. Mol Cell 2019
+	- batch : batch id (2 batches : batch 1 and 4)
+- vcf_processing.html : R code for post-processing VCF from Galaxy analysis and obtain consensus genotype and clone id.
+- integrative_analysis.html : R code for integrative analysis using R.

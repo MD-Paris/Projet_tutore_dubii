@@ -1,0 +1,7 @@
+Files description 
+- Galaxy-Workflow-TARGET-seq_scRNA-seq_analysis.ga : Galaxy workflow for scRNA-seq analysis
+- Galaxy-Workflow-TARGET-seq_scGenotyping_analysis.ga : Galaxy workflow for scGenotyping analysis
+- SRA_scRNAseq.txt : SRA accession list to download scRNAseq FASTq
+- SRA_scGenotyping.txt : SRA accession list to download scGenotyping FASTq
+- cDNA_primers.bed : Coordinates of cDNA primers for .bam filtering.
+- gDNA_primers.bed : Coordinates of gDNA primers for .bam filtering.
